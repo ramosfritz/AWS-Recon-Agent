@@ -1,0 +1,9 @@
+streamlit
+boto3
+pandas
+python-dotenv
+pypdf
+openpyxl
+python-docx
+reportlab
+
